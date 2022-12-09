@@ -1,0 +1,73 @@
+---
+title: "ImmigAppBuilder"
+author: "ethan"
+date: "2022-12-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(dplyr)
+library(ggalluvial)
+library(ggplot2)
+```
+
+```{r}
+LPR2011 = read.csv('csvs/LPRAdjustmentTypes11to20.csv')
+LPR2011
+```
+
+
+```{r}
+longTry = pivot_longer(data = tryDF, !NaturalizedRegion2011, names_to = 'state', values_to = 'naturalized')
+longTry
+```
+
+
+```{r, fig.height=12, fig.width=6}
+ggplot(longTry,
+       aes(y = naturalized, axis1 = NaturalizedRegion2011, axis2 = state)) +
+  geom_alluvium(aes(fill = NaturalizedRegion2011), width = .1) +
+  geom_stratum(width = .1, aes(fill = NaturalizedRegion2011)) +
+  geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
+  #scale_x_discrete(limits = c("NaturalizedRegion2011", "state"), expand = c(.05, .05)) +
+  #scale_fill_brewer(type = "qual", palette = "Set1") +
+  ggtitle("2011 Naturalization by Region of Birth and State of Residence") +
+  theme_bw()
+```
+
+```{r}
+natz2016 = read.csv('csvs/NaturalizationRegionState2016.csv')
+natz2016
+```
+
+```{r}
+natz = natz2016[2:7, c('NaturalizedRegion2016', 'Arizona', 'California', 'Texas', 'Florida', 'Virginia', 'New.York', 'Massachusetts', 'Illinois','Maryland', 'Michigan', 'Minnesota', 'New.Jersey', 'North.Carolina', 'Pennsylvania', 'Washington')]
+natz
+```
+```{r}
+natz = pivot_longer(natz, !NaturalizedRegion2016, names_to = 'state', values_to = 'naturalized')
+natz
+```
+
+
+
+```{r, fig.height=12, fig.width=6}
+ggplot(natz,
+       aes(y = naturalized, axis2 = NaturalizedRegion2016, axis1 = state)) +
+  geom_alluvium(aes(fill = NaturalizedRegion2016), width = .1) +
+  geom_stratum(width = .1, aes(fill = NaturalizedRegion2016)) +
+  geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
+  #scale_x_discrete(limits = c("NaturalizedRegion2011", "state"), expand = c(.05, .05)) +
+  #scale_fill_brewer(type = "qual", palette = "Set1") +
+  ggtitle("2016 Naturalization by Region of Birth and State of Residence") +
+  theme_bw()
+```
+
+
+
+

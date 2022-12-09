@@ -1,0 +1,288 @@
+,TypeClass20,Total,Adjustments of status,New arrivals
+0,"Total, all immigrants",707362,439209,268153
+1,Immediate relatives of U.S. citizens,321148,210074,111074
+2,"Spouses, new arrivals (IR1)",39973,0,39973
+3,"Spouses, adjustments (IR6)",41152,41152,0
+4,"Spouses, new arrivals, conditional (CR1)",15170,0,15170
+5,"Spouses, adjustments, conditional (CR6)",76472,76472,0
+6,"Spouses, new arrivals, self petitioning (IB1)",22,0,22
+7,"Spouses, adjustments, self petitioning (IB6)",2776,2776,0
+8,"Spouses, widows or widowers, new arrivals (IW1)",216,0,216
+9,"Spouses, widows or widowers, adjustments (IW6)",405,405,0
+10,"Spouses, entered as fiance(e), adjustments, conditional (CF1)",18428,18428,0
+11,"Spouses, entered as fiance(e), adjustments (IF1)",1104,1104,0
+12,"Children, new arrivals (IR2)",19439,0,19439
+13,"Children, adjustments (IR7)",6937,6937,0
+14,"Children, new arrivals, conditional (CR2)",1765,0,1765
+15,"Children, adjustments, conditional (CR7)",4292,4292,0
+16,"Children, new arrivals, self petitioning (IB2)",13,0,13
+17,"Children, adjustments, self petitioning (IB7)",196,196,0
+18,"Children of IB1 or IB6, new arrivals (IB3)",70,0,70
+19,"Children of IB1 or IB6, adjustments (IB8)",190,190,0
+20,"Children of IW1 or IW6, new arrivals (IW2)",65,0,65
+21,"Children of IW1 or IW6, adjustments (IW7)",39,39,0
+22,"Children of CF1, adjustments, conditional (CF2)",2340,2340,0
+23,"Children of IF1, adjustments (IF2)",385,385,0
+24,"Children adopted abroad under the Hague Convention, new arrivals (IH3)",821,0,821
+25,"Children adopted abroad under the Hague Convention, adjustments (IH8)",2,2,0
+26,"Children to be adopted under the Hague Convention, new arrivals (IH4)",80,0,80
+27,"Children to be adopted under the Hague Convention, adjustments (IH9)",2,2,0
+28,"Orphans adopted abroad, new arrivals (IR3)",633,0,633
+29,"Orphans adopted abroad, adjustments (IR8)",5,5,0
+30,"Orphans to be adopted, new arrivals (IR4)",96,0,96
+31,"Orphans to be adopted, adjustments (IR9)",7,7,0
+32,"Parents of adult U.S. citizens, new arrivals (IR5)",32711,0,32711
+33,"Parents of adult U.S. citizens, adjustments (IR0)",55257,55257,0
+34,"Parents battered or abused, of U.S. citizens, adjustments, self petitioning (IB0)",83,83,0
+35,Family-sponsored preferences,121560,13958,107602
+36,First: Unmarried sons/daughters of U.S. citizens and their children,11383,2252,9131
+37,"Unmarried sons/daughters of U.S. citizens, new arrivals (F11)",5439,0,5439
+38,"Unmarried sons/daughters of U.S. citizens, adjustments (F16)",1935,1935,0
+39,"Unmarried sons/daughters of U.S. citizens, adjustments, self petitioning (B16)",2,2,0
+40,"Children of F11 or F16, new arrivals (F12)",3692,0,3692
+41,"Children of F11 or F16, adjustments (F17)",2,2,0
+42,"Second: Spouses, children, and unmarried sons/daughters of alien residents",51701,7507,44194
+43,"Spouses of alien residents, subject to country limits, new arrivals (F21)",38,0,38
+44,"Spouses of alien residents, subject to country limits, adjustments (F26)",2128,2128,0
+45,"Spouses of alien residents, subject to country limits, adjustments, self petitioning (B26)",280,280,0
+46,"Spouses of alien residents, subject to country limits, new arrivals, conditional (C21)",4,0,4
+47,"Spouses of alien residents, subject to country limits, adjustments, conditional (C26)",319,319,0
+48,"Spouses of alien residents, exempt from country limits, new arrivals (FX1)",14628,0,14628
+49,"Spouses of alien residents, exempt from country limits, adjustments (FX6)",655,655,0
+50,"Spouses of alien residents, exempt from country limits, new arrivals, self petitioning (BX1)",2,0,2
+51,"Spouses of alien residents, exempt from country limits, adjustments, self petitioning (BX6)",81,81,0
+52,"Spouses of alien residents, exempt from country limits, new arrivals, conditional (CX1)",16,0,16
+53,"Spouses of alien residents, exempt from country limits, adjustments, conditional (CX6)",181,181,0
+54,"Children of alien residents, subject to country limits, new arrivals (F22)",25,0,25
+55,"Children of alien residents, subject to country limits, adjustments (F27)",828,828,0
+56,"Children of alien residents, subject to country limits, new arrivals, self petitioning (B22)",2,0,2
+57,"Children of alien residents, subject to country limits, adjustments, self petitioning (B27)",29,29,0
+58,"Children of C21, C22, C26, or C27, subject to country limits, adjustments, conditional (C28)",2,2,0
+59,"Children of B21, B22, B26, or B27, subject to country limits, adjustments (B28)",36,36,0
+60,"Children of F21, F22, F26, or F27, subject to country limits, new arrivals (F23)",9,0,9
+61,"Children of F21, F22, F26, or F27, subject to country limits, adjustments (F28)",33,33,0
+62,"Children of C24 or C29, subject to country limits, adjustments, conditional (C20)",2,2,0
+63,"Children of B24 or B29, subject to country limits, adjustments (B20)",3,3,0
+64,"Children of F24 or F29, subject to country limits, new arrivals (F25)",5636,0,5636
+65,"Children of F24 or F29, subject to country limits, adjustments (F20)",302,302,0
+66,"Children of alien residents, subject to country limits, adjustments, conditional (C27)",6,6,0
+67,"Children of alien residents, exempt from country limits, new arrivals (FX2)",9742,0,9742
+68,"Children of alien residents, exempt from country limits, adjustments (FX7)",274,274,0
+69,"Children of alien residents, exempt from country limits, new arrivals, self petitioning (BX2)",6,0,6
+70,"Children of alien residents, exempt from country limits, adjustments, self petitioning (BX7)",9,9,0
+71,"Children of CX2 or CX7, exempt from country limits, new arrivals, conditional (CX3)",2,0,2
+72,"Children of BX1, BX2, BX6, or BX7, exempt from country limits, adjustments (BX8)",11,11,0
+73,"Children of FX1, FX2, FX7, or FX8, exempt from country limits, new arrivals (FX3)",5726,0,5726
+74,"Children of FX1, FX2, FX7, or FX8, exempt from country limits, adjustments (FX8)",10,10,0
+75,"Children of alien residents, exempt from country limits, adjustments, conditional (CX7)",6,6,0
+76,"Unmarried sons/daughters of alien residents, subject to country limits, new arrivals (F24)",8358,0,8358
+77,"Unmarried sons/daughters of alien residents, subject to country limits, adjustments (F29)",2300,2300,0
+78,"Unmarried sons/daughters of alien residents, subject to country limits, new arrivals, self petitioning (B24)",2,0,2
+79,"Unmarried sons/daughters of alien residents, subject to country limits, adjustments, self petitioning (B29)",11,11,0
+80,"Unmarried children of alien residents, subject to country limits, adjustments, conditional (C29)",2,2,0
+81,Third: Married sons/daughters of U.S. citizens and their spouses and children,13930,1456,12474
+82,"Married sons/daughters of U.S. citizens, new arrivals (F31)",3514,0,3514
+83,"Married sons/daughters of U.S. citizens, adjustments (F36)",714,714,0
+84,"Spouses of A31 or A36, adjustments (A37)",2,2,0
+85,"Spouses of married sons/daughters of U.S. citizens, new arrivals (F32)",3225,0,3225
+86,"Spouses of married sons/daughters of U.S. citizens, adjustments (F37)",533,533,0
+87,"Spouses of married sons/daughters of U.S. citizens, adjustments, conditional (C37)",2,2,0
+88,"Spouses of B31 or B36, adjustments (B37)",2,2,0
+89,"Children of married sons/daughters of U.S. citizens, new arrivals (F33)",5735,0,5735
+90,"Children of married sons/daughters of U.S. citizens, adjustments (F38)",205,205,0
+91,Fourth: Brothers/sisters of U.S. citizens (at least 21 years of age) and their spouses and children,44546,2743,41803
+92,"Brothers/sisters of U.S. citizens, new arrivals (F41)",14210,0,14210
+93,"Brothers/sisters of U.S. citizens, adjustments (F46)",1710,1710,0
+94,"Spouses of brothers/sisters of U.S. citizens, new arrivals (F42)",10164,0,10164
+95,"Spouses of brothers/sisters of U.S. citizens, adjustments (F47)",734,734,0
+96,"Children of brothers/sisters of U.S. citizens, new arrivals (F43)",17429,0,17429
+97,"Children of brothers/sisters of U.S. citizens, adjustments (F48)",299,299,0
+98,Employment-based preferences,148959,133741,15218
+99,First: Priority workers,47388,46104,1284
+100,"Aliens with extraordinary ability, new arrivals (E11)",426,0,426
+101,"Aliens with extraordinary ability, adjustments (E16)",3893,3893,0
+102,"Outstanding professors or researchers, new arrivals (E12)",7,0,7
+103,"Outstanding professors or researchers, adjustments (E17)",2752,2752,0
+104,"Multinational executives or managers, new arrivals (E13)",55,0,55
+105,"Multinational executives or managers, adjustments (E18)",12150,12150,0
+106,"Spouses of E11, E12, E13, E16, E17, or E18, new arrivals (E14)",360,0,360
+107,"Spouses of E11, E12, E13, E16, E17, or E18, adjustments (E19)",14464,14464,0
+108,"Children of E11, E12, E13, E16, E17, or E18, new arrivals (E15)",436,0,436
+109,"Children of E11, E12, E13, E16, E17, or E18, adjustments (E10)",12845,12845,0
+110,Second: Professionals with advanced degrees or aliens of exceptional ability,43666,41262,2404
+111,"Professionals holding advanced degrees, new arrivals (E21)",835,0,835
+112,"Professionals holding advanced degrees, adjustments (E26)",21881,21881,0
+113,"Spouses of E21 or E26, new arrivals (E22)",675,0,675
+114,"Spouses of E21 or E26, adjustments (E27)",12778,12778,0
+115,"Children of E21 or E26, new arrivals (E23)",894,0,894
+116,"Children of E21 or E26, adjustments (E28)",6603,6603,0
+117,"Third: Skilled workers, professionals, and needed unskilled workers",43218,35819,7399
+118,"Skilled workers, new arrivals (E31)",1998,0,1998
+119,"Skilled workers, adjustments (E36)",5289,5289,0
+120,"Professionals with baccalaureate degrees, new arrivals (E32)",232,0,232
+121,"Professionals with baccalaureate degrees, adjustments (E37)",11943,11943,0
+122,"Needed unskilled workers, new arrivals (EW3)",744,0,744
+123,"Needed unskilled workers, adjustments (EW8)",2477,2477,0
+124,"Spouses of E31, E32, E36, or E37, new arrivals (E34)",1450,0,1450
+125,"Spouses of E31, E32, E36, or E37, adjustments (E39)",9126,9126,0
+126,"Spouses of EW3 or EW8, new arrivals (EW4)",335,0,335
+127,"Spouses of EW3 or EW8, adjustments (EW9)",787,787,0
+128,"Children of E31, E32, E36, or E37, new arrivals (E35)",2103,0,2103
+129,"Children of E31, E32, E36, or E37, adjustments (E30)",5474,5474,0
+130,"Children of EW3 or EW8, new arrivals (EW5)",537,0,537
+131,"Children of EW3 or EW8, adjustments (EW0)",723,723,0
+132,Fourth: Certain special immigrants,10704,9343,1361
+133,"Broadcast (IBCB of BBG) employees, new arrivals (BC1)",4,0,4
+134,"Broadcast (IBCG of BBG) employees, adjustments (BC6)",44,44,0
+135,"Ministers, new arrivals (SD1)",45,0,45
+136,"Ministers, adjustments (SD6)",1211,1211,0
+137,"Employees of U.S. government abroad, new arrivals (SE1)",325,0,325
+138,"Employees of U.S. government abroad, adjustments (SE6)",2,2,0
+139,"Retired employees of international organizations, new arrivals (SK1)",2,0,2
+140,"Retired employees of international organizations, adjustments (SK6)",135,135,0
+141,"Juvenile court dependents, adjustments (SL6)",5545,5545,0
+142,"Retired NATO-6 civilian employees, adjustments (SN6)",2,2,0
+143,"Religious workers, new arrivals (SR1)",17,0,17
+144,"Religious workers, adjustments (SR6)",685,685,0
+145,"Spouses of BC1 or BC6, new arrivals (BC2)",6,0,6
+146,"Spouses of BC1 or BC6, adjustments (BC7)",22,22,0
+147,"Spouses of SD1 or SD6, new arrivals (SD2)",38,0,38
+148,"Spouses of SD1 or SD6, adjustments (SD7)",477,477,0
+149,"Spouses of SE1 or SE6, new arrivals (SE2)",257,0,257
+150,"Spouses or children of SG1 or SG6, adjustments (SG7)",2,2,0
+151,"Spouses of SK1 or SK6, new arrivals (SK2)",2,0,2
+152,"Spouses of SK1 or SK6, adjustments (SK7)",34,34,0
+153,"Spouses of SN1 or SN6, adjustments (SN7)",2,2,0
+154,"Spouses of SR1 or SR6, new arrivals (SR2)",4,0,4
+155,"Spouses of SR1 or SR6, adjustments (SR7)",177,177,0
+156,"Children of BC1 or BC6, new arrivals (BC3)",8,0,8
+157,"Children of BC1 or BC6, adjustments (BC8)",34,34,0
+158,"Children of SD1 or SD6, new arrivals (SD3)",69,0,69
+159,"Children of SD1 or SD6, adjustments (SD8)",590,590,0
+160,"Children of SE1 or SE6, new arrivals (SE3)",573,0,573
+161,"Certain unmarried children of SK1 or SK6, new arrivals (SK3)",2,0,2
+162,"Certain unmarried children of SK1 or SK6, adjustments (SK8)",177,177,0
+163,"Children of SR1 or SR6, new arrivals (SR3)",10,0,10
+164,"Children of SR1 or SR6, adjustments (SR8)",206,206,0
+165,"Certain unmarried sons/daughters of SN1 or SN6, adjustments (SN8)",2,2,0
+166,Fifth: Employment creation (investors),3983,1213,2770
+167,"Employment creation, not in targeted area, new arrivals, conditional (C51)",11,0,11
+168,"Employment creation, not in targeted area, adjustments, conditional (C56)",16,16,0
+169,"Employment creation, targeted area, pilot program, new arrivals, conditional (I51)",876,0,876
+170,"Employment creation, targeted area, pilot program, adjustments, conditional (I56)",541,541,0
+171,"Employment creation, targeted area, new arrivals, conditional (T51)",44,0,44
+172,"Employment creation, targeted area, adjustments, conditional (T56)",44,44,0
+173,"Investor pilot program, not targeted, new arrivals, conditional (R51)",2,0,2
+174,"Spouses of C51 or C56, new arrivals, conditional (C52)",9,0,9
+175,"Spouses of C51 or C56, adjustments, conditional (C57)",2,2,0
+176,"Spouses of E51 or E56, adjustments (E57)",2,2,0
+177,"Spouses of I51 or I56, new arrivals, conditional (I52)",611,0,611
+178,"Spouses of I51 or I56, adjustments, conditional (I57)",267,267,0
+179,"Spouses of T51 or T56, new arrivals, conditional (T52)",35,0,35
+180,"Spouses of T51 or T56, adjustments, conditional (T57)",33,33,0
+181,"Spouses of R51 or R56, new arrivals, conditional (R52)",2,0,2
+182,"Children of C51 or C56, new arrivals, conditional (C53)",14,0,14
+183,"Children of C51 or C56, adjustments, conditional (C58)",17,17,0
+184,"Children of I51 or I56, new arrivals, conditional (I53)",1109,0,1109
+185,"Children of I51 or I56, adjustments, conditional (I58)",243,243,0
+186,"Children of T51 or T56, new arrivals, conditional (T53)",51,0,51
+187,"Children of T51 or T56, adjustments, conditional (T58)",39,39,0
+188,"Children of R51 or R56, new arrivals, conditional (R53)",6,0,6
+189,Diversity,25028,868,24160
+190,"Principals, new arrivals (DV1)",12431,0,12431
+191,"Principals, adjustments (DV6)",553,553,0
+192,"Spouses of DV1 or DV6, new arrivals (DV2)",5347,0,5347
+193,"Spouses of DV1 or DV6, adjustments (DV7)",197,197,0
+194,"Children of DV1 or DV6, new arrivals (DV3)",6382,0,6382
+195,"Children of DV1 or DV6, adjustments (DV8)",118,118,0
+196,Refugees and asylees,63875,63875,0
+197,Refugees,44404,44404,0
+198,Cuban refugees (P.L. 89-732 of 1966) (CU6),12294,12294,0
+199,Non-Cuban spouses or children of Cuban refugees (CU7),1939,1939,0
+200,Indochinese refugees (P.L. 95-145 of 1977) (IC6),2,2,0
+201,Spouses or children of Indochinese refugees not qualified as refugees on their own (IC7),2,2,0
+202,Refugee parolees (P.L. 95-412 of 1978) (R86),4,4,0
+203,Liberian Refugee Immigration Fairness applicants (LR6),94,94,0
+204,Children (under 21 years of age) of LR6 (LR8),2,2,0
+205,Other refugees (P.L. 96-212 Refugee Act of 1980) (RE6),11512,11512,0
+206,Spouses of RE6 (RE7),4030,4030,0
+207,Children of RE6 (RE8),14523,14523,0
+208,Other relatives (RE9),3,3,0
+209,Asylees,19471,19471,0
+210,Asylees (AS6),11745,11745,0
+211,Iraqi asylees (GA6),2,2,0
+212,Spouses of AS6 (AS7),2,2,0
+213,Children of AS6 (AS8),4695,4695,0
+214,Parolees,13,13,0
+215,"Parolees, Soviet/Indochinese (LA6)",4,4,0
+216,"Parolees, Indochinese (ID6)",9,9,0
+217,Children born abroad to alien residents (NA3),30,0,30
+218,Certain Iraqis and Afghans employed by U.S. Government,9727,0,9727
+219,"Certain Iraqis and Afghans employed by U.S. Government, new arrivals (SQ1)",2247,0,2247
+220,"Spouses of SQ1 or SQ6, new arrivals (SQ2)",1861,0,1861
+221,"Children of SQ1 or SQ6, new arrivals (SQ3)",5619,0,5619
+222,Cancellation of removal,3685,3685,0
+223,"Sec. 244, P.L. 89-236, subject to 4,000 annual limit (Z13)",3337,3337,0
+224,"Battered spouses or children (Violence Against Women Act), P.L. 103-322 of 1994, subject to 4,000 annual limit (Z14)",83,83,0
+225,"Salvadoran, Guatemalan and former Soviet bloc country nationals (NACARA Section 203, P.L. 105-100 of 1997) (Z15)",265,265,0
+226,Victims of human trafficking,866,866,0
+227,Adjustment of T1 nonimmigrant (ST6),426,426,0
+228,Adjustment of T2 nonimmigrant (ST7),110,110,0
+229,Adjustment of T3 nonimmigrant (ST8),266,266,0
+230,Adjustment of T4 nonimmigrant (ST0),26,26,0
+231,Adjustment of T5 nonimmigrant (ST9),20,20,0
+232,Adjustment of T6 nonimmigrant (ST1),18,18,0
+233,Victims of crimes and their spouses and children,11937,11888,49
+234,"Spouses of SU6, new arrivals (SU2)",2,0,2
+235,"Children of SU6, new arrivals (SU3)",42,0,42
+236,"Parents of SU6, new arrivals (SU5)",2,0,2
+237,Adjustment of U1 nonimmigrant (SU6),6509,6509,0
+238,Adjustment of U2 nonimmigrant (SU7),1984,1984,0
+239,Adjustment of U3 nonimmigrant (SU8),2494,2494,0
+240,Adjustment of U4 nonimmigrant (SU0),661,661,0
+241,Adjustment of U5 nonimmigrant (SU9),240,240,0
+242,IRCA legalization,54,54,0
+243,Entered without inspection before 1/1/82 (W16),30,30,0
+244,Entered as nonimmigrant and overstayed visa before 1/1/82 (W26),3,3,0
+245,"Seasonal Agricultural Workers (SAW), worked at least 90 days during each year ending May 1, 1984, 1985, and 1986 (S16)",3,3,0
+246,"Seasonal Agricultural Workers (SAW), worked at least 90 days during the year ending on May 1, 1986 (S26)",18,18,0
+247,IRCA legalization dependents,24,24,0
+248,"Spouses of legalized aliens, adjustments (LB6)",2,2,0
+249,"Spouses of legalized aliens, adjustments, conditional (CB6)",11,11,0
+250,"Children of LB1 or LB6, adjustments (LB7)",2,2,0
+251,"Children of CB1 or CB6, adjustments, conditional (CB7)",9,9,0
+252,Other,456,163,293
+253,"Children of AA1 or AA6, adjustments (AA8)",2,2,0
+254,"Amerasians, born in Vietnam between 1/1/62-1/1/76, new arrivals (AM1)",40,0,40
+255,"Spouses or children of AM1 or AM6, new arrivals (AM2)",60,0,60
+256,"Mothers, guardians, or next of kin of AM1 or AM6, new arrivals (AM3)",2,0,2
+257,"Mothers, guardians, or next of kin of AM1 or AM6, adjustments (AM8)",2,2,0
+258,"Individuals born under diplomatic status, adjustments (DS1)",19,19,0
+259,"Parolees adjusting under the Help HAITI Act of 2010, adjustments (HH6)",2,2,0
+260,"Cuban Haitian entrants, adjustments (P.L. 99-603) (CH6)",4,4,0
+261,"American Indians born in Canada, new arrivals (S13)",98,0,98
+262,Haitian asylum applicants (HRIFA) (HA6),8,8,0
+263,Haitian parolees (HRIFA) (HB6),2,2,0
+264,Haitian children without parents (HRIFA) (HC6),2,2,0
+265,Spouses of HA6 (HA7),2,2,0
+266,Children of HA6 (HA8),4,4,0
+267,Children of HB6 (HB8),3,3,0
+268,Children of HE6 (HE8),2,2,0
+269,Unmarried sons/daughters of HA6 (HA9),4,4,0
+270,Unmarried sons/daughters of HB6 (HB9),2,2,0
+271,"Principals, Nicaraguan and Central American Relief Act (NACARA) (NC6)",33,33,0
+272,Spouses of NC6 (NC7),6,6,0
+273,Children of NC6 (NC8),5,5,0
+274,Unmarried sons/daughters of NC6 (NC9),2,2,0
+275,"Special immigrant interpreters who are nationals of Iraq or Afghanistan, new arrivals (SI1)",21,0,21
+276,"Special immigrant interpreters who are nationals of Iraq or Afghanistan, adjustments (SI6)",2,2,0
+277,"Spouses of SI1 or SI6, new arrivals (SI2)",18,0,18
+278,"Spouses of SI1 or SI6, adjustments (SI7)",2,2,0
+279,"Children of SI1 or SI6, new arrivals (SI3)",45,0,45
+280,"Children of SI1 or SI6, adjustments (SI8)",4,4,0
+281,"Children born subsequent to issuance of parent's employment-based preference visa, new arrivals (XE3)",2,0,2
+282,"Children born subsequent to issuance of parent's immediate relative of U.S. citizen visa, new arrivals (XR3)",2,0,2
+283,"Children born subsequent to issuance of parent's visa other, new arrivals (XN3)",5,0,5
+284,"Entered before 7/1/24, Section 249, P.L. 89-236, adjustments (Z33)",2,2,0
+285,"Entered 6/29/40-1/1/72, Section 249, P.L. 89-236, adjustments (Z66)",53,53,0
+286,Foreign government official who is immediate relative of U.S. citizen or special immigrant (Z83),4,4,0

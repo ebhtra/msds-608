@@ -1,0 +1,136 @@
+"","X","LPRin","LPRs"
+"1","Africa","CA",7047
+"2","Africa","TX",8459
+"3","Africa","FL",2601
+"4","Africa","NY",9952
+"5","Africa","WA.OR",3868
+"6","Africa","AZ.NM.NV.UT.CO",5225
+"7","Africa","MT.WY.ID.ND.SD.NE",1918
+"8","Africa","KS.OK.MO.AR.IA.TN.KY",6026
+"9","Africa","LA.MS.AL.GA",6057
+"10","Africa","MN.WI.IL",8501
+"11","Africa","IN.MI.OH.WV",5974
+"12","Africa","SC.NC.VA",8019
+"13","Africa","MD.DC.DE.PA.NJ",18371
+"14","Africa","CT.RI.MA.NH.VT.ME",8149
+"15","Africa","Other",193
+"16","Asia Other","CA",79909
+"17","Asia Other","TX",23767
+"18","Asia Other","FL",9644
+"19","Asia Other","NY",33738
+"20","Asia Other","WA.OR",11687
+"21","Asia Other","AZ.NM.NV.UT.CO",15818
+"22","Asia Other","MT.WY.ID.ND.SD.NE",3663
+"23","Asia Other","KS.OK.MO.AR.IA.TN.KY",12818
+"24","Asia Other","LA.MS.AL.GA",11009
+"25","Asia Other","MN.WI.IL",15478
+"26","Asia Other","IN.MI.OH.WV",16928
+"27","Asia Other","SC.NC.VA",16112
+"28","Asia Other","MD.DC.DE.PA.NJ",25734
+"29","Asia Other","CT.RI.MA.NH.VT.ME",10934
+"30","Asia Other","Other",7893
+"31","Europe","CA",11544
+"32","Europe","TX",3940
+"33","Europe","FL",7325
+"34","Europe","NY",13052
+"35","Europe","WA.OR",3674
+"36","Europe","AZ.NM.NV.UT.CO",3861
+"37","Europe","MT.WY.ID.ND.SD.NE",724
+"38","Europe","KS.OK.MO.AR.IA.TN.KY",2636
+"39","Europe","LA.MS.AL.GA",2784
+"40","Europe","MN.WI.IL",8507
+"41","Europe","IN.MI.OH.WV",4673
+"42","Europe","SC.NC.VA",4255
+"43","Europe","MD.DC.DE.PA.NJ",9845
+"44","Europe","CT.RI.MA.NH.VT.ME",6369
+"45","Europe","Other",642
+"46","N.Amer. Other","CA",15543
+"47","N.Amer. Other","TX",7526
+"48","N.Amer. Other","FL",58094
+"49","N.Amer. Other","NY",41998
+"50","N.Amer. Other","WA.OR",1827
+"51","N.Amer. Other","AZ.NM.NV.UT.CO",4348
+"52","N.Amer. Other","MT.WY.ID.ND.SD.NE",1036
+"53","N.Amer. Other","KS.OK.MO.AR.IA.TN.KY",3580
+"54","N.Amer. Other","LA.MS.AL.GA",4980
+"55","N.Amer. Other","MN.WI.IL",2829
+"56","N.Amer. Other","IN.MI.OH.WV",2671
+"57","N.Amer. Other","SC.NC.VA",5905
+"58","N.Amer. Other","MD.DC.DE.PA.NJ",23112
+"59","N.Amer. Other","CT.RI.MA.NH.VT.ME",13391
+"60","N.Amer. Other","Other",2811
+"61","Oceania","CA",1857
+"62","Oceania","TX",238
+"63","Oceania","FL",174
+"64","Oceania","NY",379
+"65","Oceania","WA.OR",365
+"66","Oceania","AZ.NM.NV.UT.CO",489
+"67","Oceania","MT.WY.ID.ND.SD.NE",58
+"68","Oceania","KS.OK.MO.AR.IA.TN.KY",188
+"69","Oceania","LA.MS.AL.GA",125
+"70","Oceania","MN.WI.IL",185
+"71","Oceania","IN.MI.OH.WV",136
+"72","Oceania","SC.NC.VA",152
+"73","Oceania","MD.DC.DE.PA.NJ",231
+"74","Oceania","CT.RI.MA.NH.VT.ME",174
+"75","Oceania","Other",226
+"76","S.Amer.","CA",6542
+"77","S.Amer.","TX",4527
+"78","S.Amer.","FL",24083
+"79","S.Amer.","NY",15254
+"80","S.Amer.","WA.OR",798
+"81","S.Amer.","AZ.NM.NV.UT.CO",2706
+"82","S.Amer.","MT.WY.ID.ND.SD.NE",325
+"83","S.Amer.","KS.OK.MO.AR.IA.TN.KY",1489
+"84","S.Amer.","LA.MS.AL.GA",3156
+"85","S.Amer.","MN.WI.IL",2279
+"86","S.Amer.","IN.MI.OH.WV",1319
+"87","S.Amer.","SC.NC.VA",4424
+"88","S.Amer.","MD.DC.DE.PA.NJ",12558
+"89","S.Amer.","CT.RI.MA.NH.VT.ME",5976
+"90","S.Amer.","Other",648
+"91","Mexico","CA",49774
+"92","Mexico","TX",36648
+"93","Mexico","FL",3434
+"94","Mexico","NY",1784
+"95","Mexico","WA.OR",3908
+"96","Mexico","AZ.NM.NV.UT.CO",17566
+"97","Mexico","MT.WY.ID.ND.SD.NE",1821
+"98","Mexico","KS.OK.MO.AR.IA.TN.KY",6211
+"99","Mexico","LA.MS.AL.GA",3740
+"100","Mexico","MN.WI.IL",9259
+"101","Mexico","IN.MI.OH.WV",2897
+"102","Mexico","SC.NC.VA",3265
+"103","Mexico","MD.DC.DE.PA.NJ",2360
+"104","Mexico","CT.RI.MA.NH.VT.ME",571
+"105","Mexico","Other",208
+"106","India","CA",15061
+"107","India","TX",5907
+"108","India","FL",1855
+"109","India","NY",4805
+"110","India","WA.OR",2655
+"111","India","AZ.NM.NV.UT.CO",1927
+"112","India","MT.WY.ID.ND.SD.NE",339
+"113","India","KS.OK.MO.AR.IA.TN.KY",2516
+"114","India","LA.MS.AL.GA",3003
+"115","India","MN.WI.IL",5946
+"116","India","IN.MI.OH.WV",3856
+"117","India","SC.NC.VA",4535
+"118","India","MD.DC.DE.PA.NJ",12891
+"119","India","CT.RI.MA.NH.VT.ME",3661
+"120","India","Other",50
+"121","China","CA",23117
+"122","China","TX",3365
+"123","China","FL",1910
+"124","China","NY",27358
+"125","China","WA.OR",2684
+"126","China","AZ.NM.NV.UT.CO",2545
+"127","China","MT.WY.ID.ND.SD.NE",457
+"128","China","KS.OK.MO.AR.IA.TN.KY",2293
+"129","China","LA.MS.AL.GA",2042
+"130","China","MN.WI.IL",3825
+"131","China","IN.MI.OH.WV",2710
+"132","China","SC.NC.VA",2818
+"133","China","MD.DC.DE.PA.NJ",6568
+"134","China","CT.RI.MA.NH.VT.ME",4128
+"135","China","Other",1111
