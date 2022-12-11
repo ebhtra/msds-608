@@ -34,8 +34,6 @@ ggplot(longTry,
   geom_alluvium(aes(fill = NaturalizedRegion2011), width = .1) +
   geom_stratum(width = .1, aes(fill = NaturalizedRegion2011)) +
   geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
-  #scale_x_discrete(limits = c("NaturalizedRegion2011", "state"), expand = c(.05, .05)) +
-  #scale_fill_brewer(type = "qual", palette = "Set1") +
   ggtitle("2011 Naturalization by Region of Birth and State of Residence") +
   theme_bw()
 ```
@@ -62,11 +60,40 @@ ggplot(natz,
   geom_alluvium(aes(fill = NaturalizedRegion2016), width = .1) +
   geom_stratum(width = .1, aes(fill = NaturalizedRegion2016)) +
   geom_label(stat = "stratum", aes(label = after_stat(stratum))) +
-  #scale_x_discrete(limits = c("NaturalizedRegion2011", "state"), expand = c(.05, .05)) +
-  #scale_fill_brewer(type = "qual", palette = "Set1") +
   ggtitle("2016 Naturalization by Region of Birth and State of Residence") +
   theme_bw()
 ```
+
+In the shiny app, it takes too long to load 36 small DF's at the start, so I'll make 2 big ones instead (one for LPR, one for natz)
+
+```{r}
+dir('csvs/')[9:43]
+```
+
+```{r}
+read.csv('csvs/lpr05.csv')
+```
+
+```{r}
+longlprs = data.frame()
+longnats = data.frame()
+for (yr in as.character(2005:2021)){
+  lpr = read.csv(paste0('csvs/longlpr', substr(yr, 3, 4), '.csv'))
+  nat = read.csv(paste0('csvs/longnatz', substr(yr, 3, 4), '.csv'))
+  lpr$year = rep(yr, dim(lpr)[1])
+  nat$year = rep(yr, dim(nat)[1])
+  longlprs = rbind(longlprs, lpr)
+  longnats = rbind(longnats, nat)
+}
+```
+
+```{r}
+write.csv(longlprs %>% select(-c(X.1)), 'csvs/longlprs.csv')
+write.csv(longnats %>% select(-c(X.1)), 'csvs/longnats.csv')
+```
+
+
+
 
 
 
